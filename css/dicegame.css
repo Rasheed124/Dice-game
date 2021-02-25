@@ -1,0 +1,27 @@
+body{
+    background-color: #393E46;
+}
+body > *{
+    text-align: center;
+    color: #4ECCA3;
+    font-family: monospace;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 30px;
+}
+div{
+    display: inline-block;
+    margin-left: 50px;
+
+}
+div.position{
+    position: absolute;
+    right: 400px;
+}
+.image{
+    position: static;
+    display: none;
+}
